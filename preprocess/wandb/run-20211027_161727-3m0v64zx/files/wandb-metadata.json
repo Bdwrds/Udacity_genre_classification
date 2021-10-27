@@ -1,0 +1,31 @@
+{
+    "os": "Linux-5.4.131-16049-gc688e114d34e-x86_64-with-glibc2.28",
+    "python": "3.9.7",
+    "heartbeatAt": "2021-10-27T15:17:28.271615",
+    "startedAt": "2021-10-27T15:17:27.153913",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "raw_data.parquet",
+        "--artifact_name",
+        "preprocess.parquet",
+        "--artifact_type",
+        "preprocess",
+        "--artifact_description",
+        "Preprocessed data"
+    ],
+    "state": "running",
+    "program": "/home/dora/github/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/Udacity_genre_classification/preprocess/run.py",
+    "codePath": "preprocess/run.py",
+    "git": {
+        "remote": "git@github.com:DoraTheExploring/Udacity_genre_classification.git",
+        "commit": "74385e998d02a9e5e8f97bb988fa0eed4bf0a901"
+    },
+    "email": "edwards.benjamin.james@gmail.com",
+    "root": "/home/dora/github/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/Udacity_genre_classification",
+    "host": "penguin",
+    "username": "dora",
+    "executable": "/home/dora/miniconda3/envs/mlflow-484b576132a8d4f86bd93cd736b9c9cac218a14d/bin/python"
+}

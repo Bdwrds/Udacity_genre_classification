@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dora/github/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/Udacity_genre_classification/mlruns/0/fc594ea224bd409ea9b1aa0656e4938b/artifacts
+end_time: 1635347852660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: fc594ea224bd409ea9b1aa0656e4938b
+run_uuid: fc594ea224bd409ea9b1aa0656e4938b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1635347841966
+status: 4
+tags: []
+user_id: dora
